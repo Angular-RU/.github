@@ -11,7 +11,8 @@ With Angular, you're taking advantage of a platform that can scale from single-d
 <details>
 <summary>The following is a minimal Angular component.</summary>
 <div>
-  
+
+<br />
   
 ```ts
 import { Component } from '@angular/core';
