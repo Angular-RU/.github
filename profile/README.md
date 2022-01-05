@@ -1,4 +1,4 @@
-<img  align='right' src="https://raw.githubusercontent.com/Angular-RU/.github/main/profile/ng.png" width="400" />
+<img  align='right' src="https://raw.githubusercontent.com/Angular-RU/.github/main/profile/angular.png" />
 
 **Angular** is a development platform, built on TypeScript. As a platform, Angular includes:
 
